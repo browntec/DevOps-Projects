@@ -1,2 +1,2 @@
 # dareyio-PBL
-DAREY.IO Projects
+DAREY.IO DevOps-Projects
